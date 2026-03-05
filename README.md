@@ -1,4 +1,4 @@
-# Experiment 16: Frequency Shift Keying (FSK)
+![FIGURE 2 (1)](https://github.com/user-attachments/assets/64ec9c2c-9425-4c9f-94f0-147d2cfa3b73)<img width="3129" height="2367" alt="image" src="https://github.com/user-attachments/assets/e7cf1288-329a-4bb5-a359-25147f75a877" /># Experiment 16: Frequency Shift Keying (FSK)
 
 ## 🎯 Objectives
 * To generate a Frequency Shift Keying (FSK) signal using a VCO.
@@ -72,7 +72,8 @@ FSK is highly resistant to noise because most noise affects amplitude rather tha
 <img src="./docs/FIGURE 5 (1).JPG" width="600" alt="Expt 16 Figure 5">
 
 ### Output
-<img src="./images/FIGURE 4 (3).jpg" width="600" alt="Expt 16 Figure 4">
+![Uploading FIGURE 2 (1).jpg…]()
+
 
 18. Slowly turn the LPF **Cut-off Frequency Adjust** control counter-clockwise until the higher frequency component of the FSK signal is suppressed.
 19. Compare the original digital signal with the filter’s output.
