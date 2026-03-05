@@ -1,4 +1,3 @@
-![FIGURE 2 (1)](https://github.com/user-attachments/assets/64ec9c2c-9425-4c9f-94f0-147d2cfa3b73)<img width="3129" height="2367" alt="image" src="https://github.com/user-attachments/assets/e7cf1288-329a-4bb5-a359-25147f75a877" /># Experiment 16: Frequency Shift Keying (FSK)
 
 ## 🎯 Objectives
 * To generate a Frequency Shift Keying (FSK) signal using a VCO.
@@ -53,7 +52,8 @@ FSK is highly resistant to noise because most noise affects amplitude rather tha
 <img src="./docs/FIGURE 3 (1).JPG" width="600" alt="Expt 16 Figure 3">
 
 ### Output
-<img src="./images/FIGURE 2 (1).jpg" width="600" alt="Expt 16 Figure 2">
+![FIGURE 2 (1)](https://github.com/user-attachments/assets/a0f23e4d-44a1-46b1-aeea-d4266bc101b8)
+
 
 11. Set the scope’s **Timebase** control to **0.5ms/div**.
 12. Set the scope’s **Mode** control to the **DUAL** position to view both the digital signal and the FSK signal.
